@@ -7,7 +7,7 @@
 | 项目 | 说明 | 主要知识点 |
 |------|------|------------|
 | [key_breath_led](./key_breath_led) | 按键控制 LED 呼吸灯 | GPIO、定时器、PWM |
-| [Simple voltmeter](./Simple%20voltmeter) | 简易电压表 | ADC、OLED、串口 |
+| [simple_voltmeter](./simple_voltmeter) | 简易电压表 | ADC、OLED、串口 |
 | [学习过程记录](./学习过程记录) | 阶段性学习总结 | GPIO、EXTI、PWM、TIM、ADC、DMA |
 
 ## 开发环境
